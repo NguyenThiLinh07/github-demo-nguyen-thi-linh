@@ -1,1 +1,1 @@
-# github-demo-nguyen-thi-linh
+# demo-Django Python
