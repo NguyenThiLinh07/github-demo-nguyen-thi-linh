@@ -1,1 +1,1 @@
-# demo-Django Python
+# login-logout-Django Python
